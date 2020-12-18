@@ -1,6 +1,6 @@
 # Welcome
 
-[![Samir's github stats](https://github-readme-stats.vercel.app/api?username=SamirIngley&show_icons=true&theme=onedark)](https://github.com/SamirIngley/SamirIngley)
+[![Samir's github stats](https://github-readme-stats.vercel.app/api?username=SamirIngley&show_icons=true&theme=cobalt)](https://github.com/SamirIngley/SamirIngley)
 
 <!--
 **SamirIngley/SamirIngley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
