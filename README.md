@@ -1,5 +1,7 @@
 # Welcome
 
+📫 samir.ingle7@gmail.com
+
 [![Samir's github stats](https://github-readme-stats.vercel.app/api?username=SamirIngley&show_icons=true&theme=onedark)](https://github.com/SamirIngley/SamirIngley)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirIngley&layout=compact&theme=onedark)](https://github.com/SamirIngley/SamirIngley)
 
